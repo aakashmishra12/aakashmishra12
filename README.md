@@ -1,5 +1,4 @@
 
-```markdown
 # Hi, I'm Aakash Mishra 👋
 
 **Technical Lead | Full Stack Engineer | AI/LLM Integrator**
@@ -64,4 +63,3 @@
 Full-time roles (8-12LPA) · Collaborations · Consulting
 
 > "Ship fast, measure impact, iterate."
-```
