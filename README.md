@@ -1,4 +1,3 @@
-
 # Hi, I'm Aakash Mishra 👋
 
 **Technical Lead | Full Stack Engineer | AI/LLM Integrator**
@@ -13,14 +12,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Stack | What It Does | Link |
-|---------|-------|-------------|------|
-| **AI Job Matcher** | React + Node.js + OpenAI | Ranks jobs by skill match using embeddings | [Repo](https://github.com/aakashmishra12) |
-| **Pivot Employee Portal** | Laravel + Blade + MySQL | Role-based HR system with e-signatures | [Repo](https://github.com/aakashmishra12) |
-| **Shopify Headless Store** | Next.js + Shopify API | Modern storefront with custom checkout | [Repo](https://github.com/aakashmishra12) |
-| **RAG Chatbot** | React + LangChain | AI chatbot with document retrieval | [Repo](https://github.com/aakashmishra12) |
+*Repos going public soon — building in public starts July 2026.*
+
+- **AI Job Matcher** — local, embeddings-based job scorer: semantic search over job descriptions, skill-taxonomy matching, feedback-driven calibration. Runs on local models — no API calls, no data leaving the machine.
+- **RAG Chatbot** — AI chatbot with document retrieval and clean context engineering (React + LangChain)
+- **Shopify Headless Storefront** — modern storefront with custom checkout (Next.js + Shopify API)
 
 ---
 
@@ -60,6 +58,6 @@
 
 ## 💬 Open to
 
-Full-time roles (8-12LPA) · Collaborations · Consulting
+Full-time roles · Collaborations · Consulting
 
 > "Ship fast, measure impact, iterate."
