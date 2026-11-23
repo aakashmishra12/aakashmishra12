@@ -15,4 +15,4 @@ Head of Technology and hands-on full stack engineer in Mumbai. About 5 years bui
 
 Case studies: [aakashmishra.vercel.app](https://aakashmishra.vercel.app)
 
-Contact: [LinkedIn](https://linkedin.com/in/aakashdevs)
+Contact: [theaakashdevsops@gmail.com](mailto:theaakashdevsops@gmail.com) · [LinkedIn](https://linkedin.com/in/aakashdevs)
